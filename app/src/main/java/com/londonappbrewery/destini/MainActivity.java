@@ -9,7 +9,8 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity
+{
 
     // TODO: Steps 4 & 8 - Declare member variables here:
     private Button mTopButton;
